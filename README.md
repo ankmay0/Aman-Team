@@ -1,4 +1,4 @@
-## Aman-Team — Waste Management Analysis (Iteration 1)
+## Aman-Team — Waste Management Analysis 
 
 A simple, first-iteration analysis of municipal solid waste data across Indian cities. We clean and encode the dataset, scale features, cluster records, and prepare labels for a follow-up FLANN classifier. Plots compare model behavior under different expansion settings. This is Iteration 1; more iterations can be added if needed.
 
